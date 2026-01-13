@@ -1,6 +1,6 @@
 # 📜 ➜ **Torrenting + VPN Guide**
 
-##Background Information
+## Background Information
 
 ### Torrenting Risks
 
@@ -40,7 +40,7 @@
 	- Many private trackers do not allow Android clients.
 - Still, torrenting CAN be done safely with the following recommendations.
 
-##Setup
+## Setup
 
 ### Installation
 
@@ -51,7 +51,9 @@
 - Install your torrent client.
 	- For Windows/Linux/Mac, [**qBittorrent**](https://www.qbittorrent.org/) highly recommended and will be used throughout this guide.
 	- For Android, [**Flud**](https://play.google.com/store/apps/details?id=com.delphicoder.flud) highly recommended and will be used throughout this guide.
+
 ### Bind Your VPN to Your Torrent Client (critical)
+
 - FOR WINDOWS:
 	- In qBittorrent, go to Tools > Options > Advanced
 	- Find the Network Interface setting and change it from "Any" to the option that matches your VPN.
@@ -124,7 +126,7 @@
 	- If your VPN only has an "Excluded Apps" List
 		- Set all applications to be "Excluded" from the VPN tunnel EXCEPT qBittorrent (for windows/linux/mac) or Flud (for android)
 
-##Torrent Sites
+## Torrent Sites
 
 - Prerequisites 
 	- Be sure to follow the guide above to safely set up your torrent client + VPN before proceeding, ESPECIALLY binding your VPN to your torrent client.
