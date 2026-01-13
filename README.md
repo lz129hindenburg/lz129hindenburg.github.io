@@ -137,4 +137,4 @@
 - Choose a torrent site from [**FMHY's Torrent Sites List**](https://fmhy.net/torrenting).
 - Heed warnings on FMHY specifically around software and games. These should only be sourced from a very specific subset of torrent options.
 
-!!! info ➜ This guide is vetted by: [**LZ129Hindenburg**](https://www.reddit.com/user/LZ129Hindenburg/)
+This guide is vetted by: [**LZ129Hindenburg**](https://www.reddit.com/user/LZ129Hindenburg/)
