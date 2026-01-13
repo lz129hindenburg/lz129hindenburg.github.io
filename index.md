@@ -1,4 +1,6 @@
 # 📜 ➜ **Torrenting + VPN Guide**
+* TOC
+{:toc}
 ## Background Information
 ### Torrenting Risks
 - Torrenting is very different from direct downloads or streaming sites in that it operates on a peer-to-peer file sharing network. 
